@@ -1,8 +1,8 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
+title: "Qualitative Data Analysis Software Options"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
-url: "https://MDLutoronto.github.io/jtd-template" # change the slug to the repo's name ('jtd-template' in this case)
-repository: "MDLutoronto/jtd-template" # for github-metadata
+url: "https://MDLutoronto.github.io/qualitative-data-analysis-software-options" # change the slug to the repo's name ('jtd-template' in this case)
+repository: "MDLutoronto/qualitative-data-analysis-software-options" # for github-metadata
 ## Navigation footer logos and links
 ## Change it only if you want to use different logos or links
 ## Logos should be placed in the /assets/images/ directory, or you can use an external image link
