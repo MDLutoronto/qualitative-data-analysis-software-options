@@ -1,5 +1,5 @@
 ---
-title: Qualitative Data Analysis Software Options | Map and Data Library
+title: Qualitative Data Analysis Software Options
 layout: home
 created_date: 2023-01-27
 description: "UofT currently subscribes to the latest few versions of NVivo. Consult our NVivo software license page to request a license key. Consult our getting started guide for NVivo or our for tutorials, resources, and workshop recordings to help you get started using the software."
@@ -11,7 +11,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 ---
 
-# Qualitative Data Analysis Software Options | Map and Data Library
+# Qualitative Data Analysis Software Options 
 
 UofT currently subscribes to the latest few versions of NVivo. Consult our [NVivo software license page](https://mdl.library.utoronto.ca/technology/nvivo-software) to request a license key. Consult our [getting started guide for NVivo](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-12-information-tutorials-and-workshops) or our for tutorials, resources, and workshop recordings to help you get started using the software. We also provide [access to MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/getting-maxqda) on some of our library computers and have a [getting started guide for MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/maxqda-information-resources-tutorials-and-workshops).
 
@@ -32,3 +32,5 @@ See some helpful comparison charts:
 * [Penn Libraries Guide: Qualitative Data Analysis Tools and Resources](https://guides.library.upenn.edu/c.php?g=1250437&p=9165511)
 * [NYU Libraries: Guide Qualitative Data Analysis: Choosing QDA Software](https://guides.nyu.edu/QDA/comparison)
 * [George Mason University's Library Guide: Qualitative Research & Tools](https://infoguides.gmu.edu/qual/software/choose)
+
+**Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
