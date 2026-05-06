@@ -1,5 +1,5 @@
 ---
-title: Qualitative Data Analysis Software Options | Map and Data Library
+title: Qualitative Data Analysis Software Options
 layout: home
 created_date: 2023-01-27
 description: "UofT currently subscribes to the latest few versions of NVivo. Consult our NVivo software license page to request a license key. Consult our getting started guide for NVivo or our for tutorials, resources, and workshop recordings to help you get started using the software."
