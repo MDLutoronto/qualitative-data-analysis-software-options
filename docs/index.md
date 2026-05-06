@@ -20,7 +20,7 @@ UofT currently subscribes to the latest few versions of NVivo. Use our [NVivo so
 However, there are a number of other alternatives you can also consider; however you will need to purchase your own copy (except for Taguette):
 
 * [ATLAS.ti](https://atlasti.com/) [Note: [Lumivero, who makes NVivo, has recently acquired ATLAS.ti](https://atlasti.com/lumivero-acquires-atlas-ti)]
-* [Dedoose](https://www.dedoose.com/) [Note: You can take [Dedoose Workshops](https://www.oise.utoronto.ca/home/educationcommons/research-design-analysis-workshops) at a cost, offered by OISE]
+* [Dedoose](https://www.dedoose.com/) [Note: You can take [Dedoose Workshops](https://www.oise.utoronto.ca/educationcommons/research-design-analysis-services) at a cost, offered by OISE]
 * [Delve](https://delvetool.com/)
 * [LibreQDA](https://www.libreqda.org/) (free, open source) [Note: This is the Canadian version of Taguette with some additional features]
 * [QDA Miner](https://provalisresearch.com/products/qualitative-data-analysis-software/)
