@@ -13,7 +13,7 @@ maintainer:
 
 # Qualitative Data Analysis Software Options | Map and Data Library
 
-UofT currently subscribes to the latest few versions of NVivo. Consult our [NVivo software license page](https://mdl.library.utoronto.ca/technology/nvivo-software) to request a license key. Consult our [getting started guide for NVivo](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-12-information-tutorials-and-workshops) or our for tutorials, resources, and workshop recordings to help you get started using the software. We also provide [access to MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/getting-maxqda) on some of our library computers and have a [getting started guide for MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/maxqda-information-resources-tutorials-and-workshops).
+UofT currently subscribes to the latest few versions of NVivo. Consult our [NVivo software license page](https://mdl.library.utoronto.ca/technology/nvivo-software) to request a license key. Consult our [getting started guide for NVivo](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) or our for tutorials, resources, and workshop recordings to help you get started using the software. **New in 2026**: We also provide [a license for MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) and have a [getting started guide for MAXQDA](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/).
 
 However, there are a number of other alternatives you can also consider; however you will need to purchase your own copy (except for Taguette):
 
@@ -21,7 +21,6 @@ However, there are a number of other alternatives you can also consider; however
 * [Dedoose](https://www.dedoose.com/) [Note: You can take [Dedoose Workshops](https://www.oise.utoronto.ca/home/educationcommons/research-design-analysis-workshops) at a cost, offered by OISE]
 * [Delve](https://delvetool.com/)
 * [LibreQDA](https://www.libreqda.org/) (free, open source) [Note: This is the Canadian version of Taguette with some additional features]
-* [MAXQDA](https://www.maxqda.com/) [Note: MDL is [providing the software](https://mdl.library.utoronto.ca/technology/tutorials/getting-maxqda), free to use, in the Robarts Library 4th floor computer lab.]
 * [QDA Miner](https://provalisresearch.com/products/qualitative-data-analysis-software/)
 * [QualCoder](https://qualcoder.wordpress.com) (free, open source) [Some [QualCoder learning resources](https://guides.temple.edu/qda/qualcoder) offered by Temple University Libraries]
 * [Quirkos](https://www.quirkos.com/index.html)
