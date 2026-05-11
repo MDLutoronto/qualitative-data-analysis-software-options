@@ -2,7 +2,7 @@
 title: Qualitative Data Analysis Software Options
 layout: home
 created_date: 2023-01-27
-description: "UofT currently subscribes to the latest few versions of NVivo. Consult our NVivo software license page to request a license key. Consult our getting started guide for NVivo or our for tutorials, resources, and workshop recordings to help you get started using the software."
+description: "Various qualitative data analysis software options"
 staff:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
@@ -13,11 +13,11 @@ maintainer:
 
 # Qualitative Data Analysis Software Options
 
-UofT currently subscribes to the latest few versions of NVivo. Use our [NVivo software license request form](https://forms.cloud.microsoft/r/X7T8tmMpjP) to get a license key. Consult our [getting started guide for NVivo](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) for tutorials, resources, and workshop recordings to help you get started using the software. 
+**NVivo:** U of T currently subscribes to the latest few versions of NVivo. Use our [NVivo software license request form](https://forms.cloud.microsoft/r/X7T8tmMpjP) to get a license key. Consult our [getting started guide for NVivo](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) for tutorials, resources, and workshop recordings to help you get started using the software. 
 
-**New in 2026**: We also now provide [a license for MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) and have a [getting started guide for MAXQDA](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/).
+**New in 2026 - MAXQDA:** We also now provide [a license for MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) and have a [getting started guide for MAXQDA](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/).
 
-However, there are a number of other alternatives you can also consider; however you will need to purchase your own copy (except for Taguette):
+However, there are a number of other alternatives you can also consider; however you will need to purchase your own copy (except for LibreQDA, QualCoder, and Taguette, which are all free):
 
 * [ATLAS.ti](https://atlasti.com/) [Note: [Lumivero, who makes NVivo, has recently acquired ATLAS.ti](https://atlasti.com/lumivero-acquires-atlas-ti)]
 * [Dedoose](https://www.dedoose.com/) [Note: You can take [Dedoose Workshops](https://www.oise.utoronto.ca/educationcommons/research-design-analysis-services) at a cost, offered by OISE]
