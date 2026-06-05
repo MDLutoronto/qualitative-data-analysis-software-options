@@ -13,7 +13,7 @@ maintainer:
 
 # Qualitative Data Analysis Software Options
 
-**NVivo:** U of T currently subscribes to the latest few versions of NVivo. Use our [NVivo software license request form](https://tools.library.utoronto.ca/nvivo-request) to get a license key. Consult our [getting started guide for NVivo](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) for tutorials, resources, and workshop recordings to help you get started using the software. 
+**NVivo:** U of T currently subscribes to the latest few versions of NVivo. Use our [NVivo software license request form](https://forms.cloud.microsoft/r/X7T8tmMpjP) to get a license key. Consult our [getting started guide for NVivo](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) for tutorials, resources, and workshop recordings to help you get started using the software. 
 
 **New in 2026 - MAXQDA:** We also now provide [a license for MAXQDA](https://mdlutoronto.github.io/maxqda-getting/) and have a [getting started guide for MAXQDA](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/).
 
