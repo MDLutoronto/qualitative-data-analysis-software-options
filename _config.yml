@@ -9,7 +9,7 @@ repository: "MDLutoronto/qualitative-data-analysis-software-options" # for githu
 nav_footer_logo_bottom: "/assets/images/UTL.png"
 nav_footer_logo_bottom_href: "https://library.utoronto.ca/"
 nav_footer_logo_top: "/assets/images/mdl_full_logo.png"
-nav_footer_logo_top_href: "https://mdl.library.utoronto.ca/"
+nav_footer_logo_top_href: "https://library.utoronto.ca/library/mdl"
 ## License information
 ##  If left empty, a default Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license will be used
 license_name: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
@@ -19,7 +19,7 @@ license_image_url: "https://mirrors.creativecommons.org/presskit/buttons/88x31/s
 # # Uncomment if you want to have the aux links (right side of the top nav bar)
 # aux_links:
 #   "Map & Data Library":
-#     - "https://mdl.library.utoronto.ca/"
+#     - "https://library.utoronto.ca/library/mdl"
 # "U of T Libraries":
 #   - "https://library.utoronto.ca/"
 
@@ -28,7 +28,7 @@ license_image_url: "https://mirrors.creativecommons.org/presskit/buttons/88x31/s
 
 ## Custom footer content (HTML is allowed)
 ## If left empty, a default credit line will be used
-# footer_content: '<small><pre>Guide created by <a target="_blank" rel="noopener noreferrer" href="https://mdl.library.utoronto.ca/">Map & Data Library, University of Toronto</a>.</small></pre>'
+# footer_content: '<small><pre>Guide created by <a target="_blank" rel="noopener noreferrer" href="https://library.utoronto.ca/library/mdl">Map & Data Library, University of Toronto</a>.</small></pre>'
 
 #################################################
 # 🚨 DANGER ZONE 🚨
@@ -44,7 +44,7 @@ aux_links_new_tab: true
 # # Each link must have a title and a url
 nav_external_links:
   - title: "Map & Data Library"
-    url: https://mdl.library.utoronto.ca/
+    url: https://library.utoronto.ca/library/mdl
     opens_in_new_tab: true # Optional, defaults to false
 #   - title: "U of T Libraries"
 #     url: https://library.utoronto.ca/
