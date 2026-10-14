@@ -1,7 +1,8 @@
 ## Site settings
 title: "Qualitative Data Analysis Software Options"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
-url: "https://MDLutoronto.github.io/qualitative-data-analysis-software-options" # change the slug to the repo's name ('jtd-template' in this case)
+url: "https://mdlutoronto.github.io" # the base hostname & protocol for your site
+baseurl: "/qualitative-data-analysis-software-options" # the subpath of your site, e.g. /blog
 repository: "MDLutoronto/qualitative-data-analysis-software-options" # for github-metadata
 ## Navigation footer logos and links
 ## Change it only if you want to use different logos or links
@@ -35,7 +36,6 @@ license_image_url: "https://mirrors.creativecommons.org/presskit/buttons/88x31/s
 # ONLY CHANGE BELOW THIS LINE IF YOU KNOW WHAT YOU ARE DOING
 #################################################
 source: docs/
-baseurl: "" # the subpath of your site, e.g. /blog
 # Link for the site title in the sidebar; set to "/" for homepage
 title_link: "https://mdlutoronto.github.io/tutorials-search/"
 # # Makes Aux links open in a new tab. Default is false
